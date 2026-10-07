@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Model
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Data lớn
+*.zip
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
